@@ -1,0 +1,27 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "description": "Next Level Week offer by Rocketseat - Project Starter Ecoleta",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianaCristina/NLW-Ecoleta-Starter.git"
+  },
+  "keywords": [],
+  "author": "Juliana Cristina Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianaCristina/NLW-Ecoleta-Starter/issues"
+  },
+  "homepage": "https://github.com/JulianaCristina/NLW-Ecoleta-Starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
